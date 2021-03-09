@@ -11,9 +11,9 @@ I'm a Front-End Developer working remotely for <a href='http://www.birddigital.c
 
 
 Click <a href='http://www.linkedin.com/in/bryantmac'>here</a> to connect on LinkedIn.
+<h2>Github Stats</h2>
 <br>
 
-<h2>Github Stats</h2>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zataara&show_icons=true&theme=tokyonight)
 
 
