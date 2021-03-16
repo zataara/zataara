@@ -1,6 +1,6 @@
 <h2>Greetings!🖖</h2>
 
-I'm a Front-End Developer working remotely for <a href='http://www.birddigital.co' target='_blank' rel='noreferrer noopener'>Bird Digital</a> a web development, digital advertising and marketing company in Orlando, Florida.
+I'm a Front-End Developer working remotely for <a href='http://www.birddigital.co' target='_blank' rel='noreferrer noopener'>Bird Digital</a>: a web development, digital advertising and marketing company in Orlando, Florida.
 
 - Currently I am learning how to build advanced applications in React.
 - My favorite past time is hiking with my dog in the many outdoor areas around Portland.
