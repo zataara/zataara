@@ -4,7 +4,7 @@ I'm a Front-End Developer working remotely for <a href='http://www.birddigital.c
 
 - Currently I am enrolled in Springboard's Software Engineering <a href='https://www.springboard.com/courses/software-engineering-career-track/'>Program</a>, graduating in August 2021.
 - Hiking with my dog in the outdoor areas around Portland is my favorite past time away from my computer.  
-- Someday I will create innovative technology that brings us closer to balance with nature and holistic, sustainable living.
+- Someday I will create innovative software solutions that brings us closer into balance with nature and more holistic and sustainable living.
 - Pronouns: he/him/his
 
 
