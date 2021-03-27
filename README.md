@@ -10,7 +10,7 @@ I'm a Front-End Developer working remotely for <a href='http://www.birddigital.c
 
 Let's connect on <a href='http://www.linkedin.com/in/bryantmac'>LinkedIn</a> or <a href='http://www.facebook.com/bryantm'>Facebook</a>.
 
-<h2>Github Stats</h2>
+<h2>Github Stats!</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zataara&show_icons=true&theme=tokyonight)
 
