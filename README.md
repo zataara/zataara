@@ -10,12 +10,12 @@ I'm a freelance Web Developer living in Portland, OR. I am proficient in Javascr
 
 Let's connect on <a href='http://www.linkedin.com/in/bryantmac'>LinkedIn</a> or <a href='http://www.facebook.com/bryantm'>Facebook</a>.
 
-## Github Stats!
+<!-- ## Github Stats!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zataara&show_icons=true&theme=tokyonight)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zataara&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zataara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zataara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
