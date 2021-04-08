@@ -1,6 +1,6 @@
 # Greetings!🖖
 
-I'm a freelance Web Developer living in Portland, OR. I am proficient in Javascript, HTML, and CSS with experience designing UI/UX in Bootstrap Stuio, Editor X, and Webflow.
+I'm a freelance Web Developer living in Portland, OR. I am proficient in Javascript, HTML, and CSS with experience designing UI/UX in Bootstrap Studio, Editor X, and Webflow.
 
 - Currently I am enrolled in Springboard's Software Engineering <a href='https://www.springboard.com/courses/software-engineering-career-track/'>Program</a>, graduating in October 2021.
 - Hiking with my dog in the Oregon outdoors is my favorite past time away from my computer.  
@@ -15,7 +15,7 @@ Let's connect on <a href='http://www.linkedin.com/in/bryantmac'>LinkedIn</a> or 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zataara&show_icons=true&theme=tokyonight)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zataara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
