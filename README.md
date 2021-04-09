@@ -11,7 +11,7 @@ I'm a freelance Web Developer living in Portland, OR. I am proficient in Javascr
 Let's connect on <a href='http://www.linkedin.com/in/bryantmac'>LinkedIn</a> or <a href='http://www.facebook.com/bryantm'>Facebook</a>.
 
 ## Github Stats!
-<img src="https://github.com/zataara/zataara/blob/master/images/stat.svg" alt="Alternative Text"/>
+<img src="https://github.com/zataara/zataara/blob/main/images/stat.svg" alt="Alternative Text"/>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zataara&show_icons=true&theme=tokyonight)
 
