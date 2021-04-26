@@ -1,6 +1,6 @@
 # Greetings!🖖
 
-I'm a freelance Web Developer living in Portland, OR. I am proficient in Javascript, HTML, and CSS with experience designing UI/UX in Bootstrap Studio, Editor X, and Webflow.
+I'm a freelance Web Developer living in Portland, OR with proficiency in Javascript, HTML, and CSS. I have experience designing UI/UX in Bootstrap Studio, Editor X, and Webflow.
 
 - Currently I am working on building an application for an artist who makes custom paintings.
 - I am also enrolled in Springboard's Software Engineering <a href='https://www.springboard.com/courses/software-engineering-career-track/'>Program</a>, graduating in October 2021.
