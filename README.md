@@ -14,7 +14,13 @@ Let's connect on <a href='http://www.linkedin.com/in/bryantmac'>LinkedIn</a> or 
 <img src="https://github.com/zataara/zataara/blob/master/images/codeStats.svg" alt=""/>
 
 
-
+## My GitHub Stats 📊
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zataara&count_private=true&show_icons=true&theme=blue-green" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zataara" />
+</a>
 
 <!--## Github Stats!
 
