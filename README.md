@@ -23,6 +23,10 @@ Let's connect on <a href='http://www.linkedin.com/in/bryantmac'>LinkedIn</a> or 
 </a>
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   5 hrs 3 mins    ███████████████████████▓░   95.19 % 
+HTML         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+```
 <!--END_SECTION:waka-->
 
 
