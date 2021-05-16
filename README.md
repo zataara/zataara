@@ -22,13 +22,8 @@ Let's connect on <a href='http://www.linkedin.com/in/bryantmac'>LinkedIn</a> or 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zataara" />
 </a>
 
-<!--## Github Stats!
-
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zataara&show_icons=true&theme=tokyonight)
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zataara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
