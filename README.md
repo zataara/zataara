@@ -13,8 +13,17 @@ Let's connect on <a href='http://www.linkedin.com/in/bryantmac'>LinkedIn</a> or 
 
 <img src="https://github.com/zataara/zataara/blob/master/images/codeStats.svg" alt=""/>
 
+## How I've spent my week:
+<!--START_SECTION:waka-->
+```text
+JavaScript   5 hrs 3 mins    ███████████████████████▓░   95.19 % 
+HTML         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+```
+<!--END_SECTION:waka-->
 
-## My GitHub Stats 📊
+<details closed>
+  <summary>Github Stats</summary>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=zataara&count_private=true&show_icons=true&theme=blue-green" />
 </a>
@@ -22,12 +31,7 @@ Let's connect on <a href='http://www.linkedin.com/in/bryantmac'>LinkedIn</a> or 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zataara" />
 </a>
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   5 hrs 3 mins    ███████████████████████▓░   95.19 % 
-HTML         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-```
-<!--END_SECTION:waka-->
+</details>
 
 
 
