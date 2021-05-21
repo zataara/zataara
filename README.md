@@ -1,10 +1,11 @@
 # Greetings!🖖
 
-I'm a freelance Web Developer living in Portland, OR with proficiency in Javascript, HTML, and CSS. I have experience designing UI/UX in Bootstrap Studio, Editor X, and Webflow.
+I'm a freelance Web Developer living in Portland, OR with proficiency in Javascript, HTML, and CSS. I have experience designing UI/UX in Bootstrap Studio, Editor X, and Webflow. Right now I'm focusing on a full stack understanding of engineering, down the road I plan to speacilize more towards back end technolgoies. 
 
-- Currently I am working on building an application for an artist who makes custom paintings.
-- I am also enrolled in Springboard's <a href='https://www.springboard.com/courses/software-engineering-career-track/'>Software Engineering Program</a>, graduating in October 2021.
-- Hiking with my dog in the Oregon outdoors is my favorite past time away from my computer.  
+- Currently I am working on building an application for an artist who makes custom paintings based on specific colors and themes found in a particular room in a customer's house.
+- I am enrolled and progressing rapidly through Springboard's <a href='https://www.springboard.com/courses/software-engineering-career-track/'>Software Engineering Program</a>, graduating in December 2021.
+- Hiking with my dog in the Oregon outdoors is my favorite past time away from my computer.
+- I am working towards being an accomplished Kite Boarder.  
 - Someday I plan to create innovative software solutions that brings us closer into balance with nature and more holistic and sustainable living.
 - Pronouns: he/him/his
 
@@ -24,17 +25,10 @@ HTML         4 mins          █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<details closed>
-  <summary>Github Stats</summary>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zataara&count_private=true&show_icons=true&theme=blue-green" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zataara" />
-</a>
+<img align='left' src='https://github.com/zataara/github-api-stats/blob/master/generated/overview.svg' />
+<img align='center' src='https://github.com/zataara/github-api-stats/blob/master/generated/languages.svg' />
 
-</details>
+
 
 
 
