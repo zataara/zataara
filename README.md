@@ -17,11 +17,11 @@ Let's connect on <a href='http://www.linkedin.com/in/bryantmac'>LinkedIn</a> or 
 ## How I've spent my week:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   48 mins         ███████████▓░░░░░░░░░░░░░   46.49 % 
-CSS          29 mins         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-JSON         13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Markdown     7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-HTML         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Python       4 hrs 28 mins   ████████████████░░░░░░░░░   63.44 % 
+Markdown     51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+JavaScript   51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+CSS          30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+JSON         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 ```
 <!--END_SECTION:waka-->
 
