@@ -25,6 +25,7 @@ HTML         4 mins          █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+## My Cumulative Coding Journey:
 <img align='left' src='https://github.com/zataara/github-api-stats/blob/master/generated/overview.svg' />
 <img align='center' src='https://github.com/zataara/github-api-stats/blob/master/generated/languages.svg' />
 
