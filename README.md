@@ -19,11 +19,11 @@ Checkout my progress on <a href='https://leetcode.com/zataara/'>Leetcode</a>!
 ## How I've spent my week:
 <!--START_SECTION:waka-->
 ```text
-Python       8 hrs 12 mins   ████████████████████▓░░░░   82.07 % 
-JavaScript   50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Markdown     44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Python       4 hrs 26 mins   ██████████████████▓░░░░░░   74.29 % 
+JavaScript   49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Markdown     29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 <!--END_SECTION:waka-->
 
