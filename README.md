@@ -13,6 +13,8 @@ I'm a freelance Web Developer living in Portland, OR with proficiency in Javascr
 Let's connect on <a href='http://www.linkedin.com/in/bryantmac'>LinkedIn</a> or <a href='http://www.facebook.com/bryantm'>Facebook</a>.
 
 Checkout my progress on <a href='https://leetcode.com/zataara/'>Leetcode</a>!
+<br>
+<img src='https://github.com/zataara/leetcode-stats/blob/master/generated/stats.svg'>
 
 <img src="https://github.com/zataara/zataara/blob/master/images/codeStats.svg" alt=""/>
 
