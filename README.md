@@ -23,7 +23,7 @@ My <a href='https://www.codewars.com/users/zataara'>Codewars</a> Kata Rank:
 
 <img src="https://github.com/zataara/zataara/blob/master/images/codeStats.svg" alt=""/>
 
-## How I've spent my week:
+  ## How I've spent my week via <a href='https://wakatime.com/@zataara'>Wakatime</a>:
 <!--START_SECTION:waka-->
 ```text
 Python       6 hrs 12 mins   █████████████░░░░░░░░░░░░   52.30 % 
