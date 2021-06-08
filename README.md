@@ -11,10 +11,15 @@ I'm a freelance Web Developer living in Portland, OR with proficiency in Javascr
 
 
 Let's connect on <a href='http://www.linkedin.com/in/bryantmac'>LinkedIn</a> or <a href='http://www.facebook.com/bryantm'>Facebook</a>.
-
+<div align='center'>
 Checkout my progress on <a href='https://leetcode.com/zataara/'>Leetcode</a>!
 <br>
-<img src='https://github.com/zataara/leetcode-stats/blob/master/generated/stats.svg'>
+<a href='https://leetcode.com/zataara/'><img src='https://github.com/zataara/leetcode-stats/blob/master/generated/stats.svg'></a></div>
+<br>
+<div align = 'center'>
+My <a href='https://www.codewars.com/users/zataara'>Codewars</a> Kata Rank:
+<br>
+<a href='https://www.codewars.com/users/zataara'><img src='https://www.codewars.com/users/zataara/badges/large'></a><div>
 
 <img src="https://github.com/zataara/zataara/blob/master/images/codeStats.svg" alt=""/>
 
