@@ -4,6 +4,7 @@ I'm a freelance Web Developer living in Portland, OR with proficiency in Javascr
 
 - Currently I am working on building an application for an artist that creates custom paintings based on specific colors and themes found in a particular room in a customer's house.
 - I am enrolled and progressing rapidly through Springboard's <a href='https://www.springboard.com/courses/software-engineering-career-track/'>Software Engineering Program</a>, graduating in December 2021.
+- The company I'd like to work for works primarly in Ruby so I'm studying it 'in my free time'. 
 - Hiking with my dog in the Oregon outdoors is my favorite past time away from my computer.
 - I am working towards being an accomplished Kite Boarder.  
 - Someday I plan to create innovative software solutions that brings us closer into balance with nature and more holistic and sustainable living.
