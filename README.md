@@ -11,6 +11,16 @@ I'm a freelance Web Developer living in Portland, OR with proficiency in Javascr
 
 
 Let's connect on <a href='http://www.linkedin.com/in/bryantmac'>LinkedIn</a> or <a href='http://www.facebook.com/bryantm'>Facebook</a>.
+<br>
+<div align='center'>
+Here's my profile on StackOverflow
+  <div align='center'>
+<a href="https://stackoverflow.com/users/14847517/bryant-macmahon"><img src="https://stackoverflow.com/users/flair/14847517.png?theme=dark" width="208" height="58" alt="profile for Bryant MacMahon at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Bryant MacMahon at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+  </div>
+  </div>
+
+
+
 <div align='center'>
 Checkout my progress on <a href='https://leetcode.com/zataara/'>Leetcode</a>!
 <br>
