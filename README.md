@@ -35,11 +35,11 @@ My <a href='https://www.codewars.com/users/zataara'>Codewars</a> Kata Rank:
   ## How I've spent my week via <a href='https://wakatime.com/@zataara'>WakaTime</a>:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   15 hrs 21 mins  ██████████████████░░░░░░░   71.91 % 
-HTML         3 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-CSS          1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Markdown     29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Git Config   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+JavaScript   13 hrs 42 mins  █████████████████▓░░░░░░░   70.41 % 
+HTML         3 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
+CSS          1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Markdown     29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka-->
 
