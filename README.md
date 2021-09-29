@@ -35,8 +35,7 @@ My <a href='https://www.codewars.com/users/zataara'>Codewars</a> Kata Rank:
   ## How I've spent my week via <a href='https://wakatime.com/@zataara'>WakaTime</a>:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 44 mins   ████████████████████████▓   98.51 % 
-SQL          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
