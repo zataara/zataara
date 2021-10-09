@@ -42,10 +42,10 @@ SQL          22 mins         ▓░░░░░░░░░░░░░░░░
 JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 <!--END_SECTION:waka-->
-
+<!-- 
 ## My Cumulative Github Journey:
 <img align='left' src='https://github.com/zataara/github-api-stats/blob/master/generated/overview.svg' />
-<img align='center' src='https://github.com/zataara/github-api-stats/blob/master/generated/languages.svg' />
+<img align='center' src='https://github.com/zataara/github-api-stats/blob/master/generated/languages.svg' /> -->
 
 
 
