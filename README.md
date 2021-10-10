@@ -49,7 +49,7 @@ SQL          7 mins          ░░░░░░░░░░░░░░░░░
 
 
 
-
+<!-- [![wakatime](https://wakatime.com/badge/user/99e71179-209a-409a-b8bc-6612891d9ce9.svg)](https://wakatime.com/@99e71179-209a-409a-b8bc-6612891d9ce9) -->
 
 
 
