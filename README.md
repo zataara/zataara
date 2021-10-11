@@ -3,6 +3,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/99e71179-209a-409a-b8bc-6612891d9ce9.svg)](https://wakatime.com/@99e71179-209a-409a-b8bc-6612891d9ce9)
 
+<img align="center" src="https://www.codewars.com/users/zataara/badges/micro">
+
 I'm a freelance Web Developer living in Portland, OR with proficiency in Javascript, HTML, CSS and Python. I have experience designing UI in Bootstrap Studio and Editor X. Right now I'm focusing on a full stack understanding of engineering, down the road I plan to speacilize more towards back end technolgoies. 
 
 - Currently I am working on building an application for an artist that creates custom paintings based on specific colors and themes found in a particular room in a customer's house.
@@ -25,7 +27,6 @@ I'm a freelance Web Developer living in Portland, OR with proficiency in Javascr
 <!-- GIT -->
 <img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 
-
 <!-- Javscript -->
 <img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
@@ -38,27 +39,49 @@ I'm a freelance Web Developer living in Portland, OR with proficiency in Javascr
 <!-- Markdown -->
 <img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 
+<!-- Node.js -->
+<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+<!-- npm -->
+<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+
+<!-- Photoshop -->
+<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+
+<!-- PostgreSQL -->
+<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+
+<!-- Python -->
+<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+<!-- VSCode -->
+<img width="65" align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+---
 
 
 
+## External Stats:
 
-
-
-
-
-<div align='center'>
+<div align='left'>
 Here's my profile on StackOverflow
-  <div align='center'>
+  <div align='left'>
 <a href="https://stackoverflow.com/users/14847517/bryant-macmahon"><img src="https://stackoverflow.com/users/flair/14847517.png?theme=dark" width="208" height="58" alt="profile for Bryant MacMahon at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Bryant MacMahon at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   </div>
-  </div>
+</div>
 
 
 
-<div align='center'>
+<div align='left'>
 Checkout my progress on <a href='https://leetcode.com/zataara/'>Leetcode</a>!
 <br>
 <a href='https://leetcode.com/zataara/'><img src='https://github.com/zataara/leetcode-stats/blob/master/generated/stats.svg'></a></div>
+<div align='left'>
+Here's my profile on StackOverflow
+  <div align='left'>
+<a href="https://stackoverflow.com/users/14847517/bryant-macmahon"><img src="https://stackoverflow.com/users/flair/14847517.png?theme=dark" width="208" height="58" alt="profile for Bryant MacMahon at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Bryant MacMahon at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+  </div>
+</div>
 <br>
 <div align = 'center'>
 My <a href='https://www.codewars.com/users/zataara'>Codewars</a> Kata Rank:
@@ -83,7 +106,14 @@ SQL          13 mins         ▒░░░░░░░░░░░░░░░░
 <img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
   
 <!-- LinkedIn -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+
+<!-- Twitter -->
+<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  
+<!-- Github -->
+<img width="65" align='left' src="https://devicons.railway.app/i/github-light.svg" />
+
 
 
   
