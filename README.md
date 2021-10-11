@@ -1,5 +1,8 @@
 # Greetings!🖖
 
+
+[![wakatime](https://wakatime.com/badge/user/99e71179-209a-409a-b8bc-6612891d9ce9.svg)](https://wakatime.com/@99e71179-209a-409a-b8bc-6612891d9ce9)
+
 I'm a freelance Web Developer living in Portland, OR with proficiency in Javascript, HTML, CSS and Python. I have experience designing UI in Bootstrap Studio and Editor X. Right now I'm focusing on a full stack understanding of engineering, down the road I plan to speacilize more towards back end technolgoies. 
 
 - Currently I am working on building an application for an artist that creates custom paintings based on specific colors and themes found in a particular room in a customer's house.
@@ -8,9 +11,41 @@ I'm a freelance Web Developer living in Portland, OR with proficiency in Javascr
 - Someday I plan to create innovative software solutions that brings us closer into balance with nature and more holistic and sustainable living.
 - Pronouns: he/him/his
 
+## Tools:
 
-Let's connect on <a href='http://www.linkedin.com/in/bryantmac'>LinkedIn</a> or <a href='http://www.facebook.com/bryantm'>Facebook</a>.
-<br>
+<!-- React -->
+<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
+<!-- Bootstrap -->
+<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+
+<!-- CSS -->
+<img width="65" align='left'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+<!-- GIT -->
+<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+
+
+<!-- Javscript -->
+<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<!-- Jest -->
+<img  width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+
+<!-- jQuery -->
+<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+
+<!-- Markdown -->
+<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+
+
+
+
+
+
+
+
+
 <div align='center'>
 Here's my profile on StackOverflow
   <div align='center'>
@@ -32,6 +67,7 @@ My <a href='https://www.codewars.com/users/zataara'>Codewars</a> Kata Rank:
 
 <img src="https://github.com/zataara/zataara/blob/master/images/codeStats.svg" alt=""/>
 
+
   ## How I've spent my week via <a href='https://wakatime.com/@zataara'>WakaTime</a>:
 <!--START_SECTION:waka-->
 ```text
@@ -41,17 +77,29 @@ Markdown     55 mins         █░░░░░░░░░░░░░░░░
 JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 SQL          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
+  
+## Let's connect:
+<!-- Facebook -->
+<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+  
+<!-- LinkedIn -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+
+
+  
+  
 <!--END_SECTION:waka-->
-<!-- 
-## My Cumulative Github Journey:
+  
+  
+<!-- All Apps -->
+<!-- [![wakatime](https://wakatime.com/badge/user/99e71179-209a-409a-b8bc-6612891d9ce9.svg)](https://wakatime.com/@99e71179-209a-409a-b8bc-6612891d9ce9) -->
+<!-- ## My Cumulative Github Journey:
 <img align='left' src='https://github.com/zataara/github-api-stats/blob/master/generated/overview.svg' />
 <img align='center' src='https://github.com/zataara/github-api-stats/blob/master/generated/languages.svg' /> -->
+ 
+<!--   Most used Languages
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zataara&theme=blue-green"> 
 
 
-
-<!-- [![wakatime](https://wakatime.com/badge/user/99e71179-209a-409a-b8bc-6612891d9ce9.svg)](https://wakatime.com/@99e71179-209a-409a-b8bc-6612891d9ce9) -->
-
-
-
-
+ -->
 
