@@ -5,6 +5,8 @@
 
 <img align="center" src="https://www.codewars.com/users/zataara/badges/micro">
 
+![visitors](https://visitor-badge.glitch.me/badge?username=zataara)
+
 I'm a freelance Web Developer living in Portland, OR with proficiency in Javascript, HTML, CSS and Python. I have experience designing UI in Bootstrap Studio and Editor X. Right now I'm focusing on a full stack understanding of engineering, down the road I plan to speacilize more towards back end technolgoies. 
 
 - Currently I am working on building an application for an artist that creates custom paintings based on specific colors and themes found in a particular room in a customer's house.
@@ -23,6 +25,9 @@ I'm a freelance Web Developer living in Portland, OR with proficiency in Javascr
 
 <!-- CSS -->
 <img width="65" align='left'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+<!-- HTML -->
+<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
 <!-- GIT -->
 <img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
@@ -60,38 +65,16 @@ I'm a freelance Web Developer living in Portland, OR with proficiency in Javascr
 ---
 
 
-
-## External Stats:
-
-<div align='left'>
-Here's my profile on StackOverflow
-  <div align='left'>
-<a href="https://stackoverflow.com/users/14847517/bryant-macmahon"><img src="https://stackoverflow.com/users/flair/14847517.png?theme=dark" width="208" height="58" alt="profile for Bryant MacMahon at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Bryant MacMahon at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-  </div>
-</div>
-
-
-
 <div align='left'>
 Checkout my progress on <a href='https://leetcode.com/zataara/'>Leetcode</a>!
 <br>
 <a href='https://leetcode.com/zataara/'><img src='https://github.com/zataara/leetcode-stats/blob/master/generated/stats.svg'></a></div>
 <div align='left'>
-Here's my profile on StackOverflow
-  <div align='left'>
-<a href="https://stackoverflow.com/users/14847517/bryant-macmahon"><img src="https://stackoverflow.com/users/flair/14847517.png?theme=dark" width="208" height="58" alt="profile for Bryant MacMahon at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Bryant MacMahon at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-  </div>
-</div>
-<br>
-<div align = 'center'>
-My <a href='https://www.codewars.com/users/zataara'>Codewars</a> Kata Rank:
-<br>
-<a href='https://www.codewars.com/users/zataara'><img src='https://www.codewars.com/users/zataara/badges/large'></a><div>
-
+ 
+  
 <img src="https://github.com/zataara/zataara/blob/master/images/codeStats.svg" alt=""/>
 
-
-  ## How I've spent my week via <a href='https://wakatime.com/@zataara'>WakaTime</a>:
+## How I've spent my week via <a href='https://wakatime.com/@zataara'>WakaTime</a>:
 <!--START_SECTION:waka-->
 ```text
 Other        11 hrs 58 mins  ███████████▓░░░░░░░░░░░░░   47.04 % 
@@ -102,17 +85,18 @@ SQL          13 mins         ▒░░░░░░░░░░░░░░░░
 ```
   
 ## Let's connect:
-<!-- Facebook -->
-<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
   
-<!-- LinkedIn -->
-<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-
-<!-- Twitter -->
-<img width="65" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
-  
-<!-- Github -->
-<img width="65" align='left' src="https://devicons.railway.app/i/github-light.svg" />
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
+![Twitter](https://img.shields.io/badge/bryantmac-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 
 
