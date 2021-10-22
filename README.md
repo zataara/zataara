@@ -97,6 +97,7 @@ Markdown     55 mins         █░░░░░░░░░░░░░░░░
 JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 SQL          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
+<!--END_SECTION:waka-->
   
 ## Lets connect:
  
