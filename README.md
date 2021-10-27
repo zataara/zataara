@@ -91,13 +91,13 @@ My name is Bryant, I'm a Software Engineer living in Portland, Oregon in the US.
 ## How I've spent my week via <a href='https://wakatime.com/@zataara'>WakaTime</a>:
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2021 - 25 October, 2021
+Week: 20 October, 2021 - 26 October, 2021
 
-JavaScript   5 hrs 24 mins   ████████████████████▒░░░░   81.87 % 
-Python       57 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Python       4 hrs 1 min     ████████████▒░░░░░░░░░░░░   49.84 % 
+JavaScript   3 hrs 38 mins   ███████████▒░░░░░░░░░░░░░   45.09 % 
+HTML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 <!--END_SECTION:waka-->
   
