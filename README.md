@@ -100,6 +100,8 @@ Git Config   8 mins          ▓░░░░░░░░░░░░░░░░
 Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
+
+<img width="1000" height="500" src="https://wakatime.com/share/@zataara/1951159e-2f55-4a3a-b85a-090f3139d650.svg"></img>
   
 ## Lets connect:
  
