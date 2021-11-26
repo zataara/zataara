@@ -20,9 +20,6 @@ My name is Bryant, I'm a Software Engineer living in Portland, Oregon in the US.
 <!-- CSS -->
 <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  
-<!-- Bootstrap -->
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
- 
 <!-- Javscript -->
 <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  
@@ -31,6 +28,9 @@ My name is Bryant, I'm a Software Engineer living in Portland, Oregon in the US.
  
 <!-- Redux -->
 <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+ 
+<!-- Bootstrap -->
+<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 
 <!-- GIT -->
 <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
