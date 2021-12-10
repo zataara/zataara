@@ -92,13 +92,13 @@ My name is Bryant, I'm a Software Engineer living in Portland, Oregon in the US.
 ## How I've spent my week:
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2021 - 08 December, 2021
+Week: 03 December, 2021 - 09 December, 2021
 
-JavaScript   7 hrs 21 mins   ████████████████████░░░░░   79.48 % 
-Markdown     1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Ruby         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+JavaScript   6 hrs 38 mins   █████████████████████▒░░░   85.13 % 
+Markdown     24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+JSON         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Ruby         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 <!--END_SECTION:waka-->
 
