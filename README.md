@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/99e71179-209a-409a-b8bc-6612891d9ce9.svg)](https://wakatime.com/@99e71179-209a-409a-b8bc-6612891d9ce9) <a href='https://leetcode.com/zataara/'>![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=LeetCode&logoColor=#d16c06)</a>  <a href='https://www.codewars.com/users/zataara'><img src="https://www.codewars.com/users/zataara/badges/micro"></a> <a href='https://www.hackerrank.com/zataara'>![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white)</a> <a href='https://stackoverflow.com/users/14847517/bryant-macmahon'>![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)</a><a href='https://dev.to/zataara'>![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white)</a>
 
-My name is Bryant, I'm a Software Engineer living in Portland, Oregon in the US.
+My name is Bryant, I'm a Software Engineer living in Portland, Oregon in the Pacific Northwest of the US.
 
 
 - I am grinding hard in Springboard's <a href='https://www.springboard.com/courses/software-engineering-career-track/'>Software Engineering Program</a>, graduating in January 2022.
