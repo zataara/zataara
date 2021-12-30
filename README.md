@@ -93,7 +93,10 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
 ## How I've spent my week:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 23 December, 2021 - 29 December, 2021
+
+JavaScript   22 mins         █████████████████████░░░░   83.35 % 
+Markdown     4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
 ```
 <!--END_SECTION:waka-->
 
