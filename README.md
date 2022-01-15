@@ -7,7 +7,7 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
 
 
 - I am grinding hard in Springboard's <a href='https://www.springboard.com/courses/software-engineering-career-track/'>Software Engineering Program</a>, graduating in January 2022.
-- My preferred tech stack to work in is React/Tailwind/Express/postgreSQL.
+- My preferred tech stack to work in is React/Tailwind/Express/PostgreSQL.
 - I'm studying blockchain development in my free hours at night. 
 - I'm working on first gettng my AWS Developer Associate Cert. Upon completion of this I will begin studing for my Docker cert.
 - Hiking with my dog Tywin is my favorite past time away from my computer.
