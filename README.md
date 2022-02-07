@@ -6,7 +6,7 @@
 My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of the United States.
 
 
-- I am grinding hard in Springboard's <a href='https://www.springboard.com/courses/software-engineering-career-track/'>Software Engineering Program</a>, graduating in January 2022.
+- I am grinding hard in Springboard's <a href='https://www.springboard.com/courses/software-engineering-career-track/'>Software Engineering Program</a>, graduating in February 2022.
 - My preferred tech stack to work in is React/Tailwind/Express/PostgreSQL.
 - I'm studying blockchain development in my free hours at night. 
 - MicroCerts I'm working on: AWS Developer Associate, Docker.
