@@ -67,10 +67,10 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
 <img width ="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
  
 <!-- Ruby -->
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
+<!-- img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
 
 <!-- Rails -->
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+<!-- img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
 
 <!-- Photoshop -->
 <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
