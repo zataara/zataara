@@ -17,15 +17,6 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
 
 ## Toolkit:
 <div align='center'>
-
-<!-- HTML -->
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- 
-<!-- CSS -->
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- 
-<!-- Javscript -->
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  
 <!-- React -->
 <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
@@ -36,11 +27,23 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
 <!-- Tailwind --> 
 <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
  
+<!-- Material UI -->
+<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+ 
 <!-- Bootstrap -->
 <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 
 <!-- GIT -->
 <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+ 
+<!-- HTML -->
+<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ 
+<!-- CSS -->
+<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ 
+<!-- Javscript -->
+<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 <!-- Jest -->
 <img  width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
