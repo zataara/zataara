@@ -6,9 +6,9 @@
 My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of the United States.
 
 
-- I am grinding hard in Springboard's <a href='https://www.springboard.com/courses/software-engineering-career-track/'>Software Engineering Program</a>, graduating in February 2022.
-- My preferred tech stack to work in is React/Tailwind/Express/PostgreSQL.
-- I'm studying blockchain development in my free hours at night. 
+- I am a recent grad of Springboard's <a href='https://www.springboard.com/courses/software-engineering-career-track/'>Software Engineering Program</a>.
+- I'm onboarding for a new fullstack position working React - Tailwind - Express - MongoDB
+- In my free time I'm working on an NFT project with a few of my dev and graphic design inclined friends.  
 - MicroCerts I'm working on: AWS Developer Associate, Docker.
 - Technologies I'm learning next: GraphQL, Next.js.
 - Hiking with my dog Tywin is my favorite past time away from my computer.
