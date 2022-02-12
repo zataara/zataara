@@ -32,6 +32,9 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
  
 <!-- Redux -->
 <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+
+<!-- Tailwind --> 
+<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
  
 <!-- Bootstrap -->
 <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
