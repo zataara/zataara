@@ -7,7 +7,7 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
 
 
 - I am a recent graduate of Springboard's <a href='https://www.springboard.com/courses/software-engineering-career-track/'>Software Engineering Program</a>.
-- I'm onboarding for a new fullstack position working in React - Tailwind - Express - MongoDB
+- I'm currently onboarding for a Fullstack position working in React - Tailwind - Express - MongoDB.
 - In my free time I'm working on an NFT project with a few of my dev and graphic design inclined friends.  
 - MicroCerts I'm working on: AWS Developer Associate, Docker.
 - Technologies I'm learning next: GraphQL, Next.js.
