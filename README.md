@@ -33,6 +33,9 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
 <!-- Bootstrap -->
 <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 
+<!-- TypeScript -->
+<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+
 <!-- GIT -->
 <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
  
@@ -89,9 +92,6 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
  
 <!-- Heroku -->
 <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
- 
-<!-- Travis -->
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" />
 
 <!-- VSCode -->
 <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
