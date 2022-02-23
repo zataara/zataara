@@ -81,6 +81,9 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
 <!-- Rails -->
 <!-- img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
 
+<!-- Figma -->
+<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
 <!-- Photoshop -->
 <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
  
