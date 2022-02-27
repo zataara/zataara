@@ -11,7 +11,7 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
 - In my free time I'm working on an NFT project with a few of my dev and graphic design inclined friends.  
 - Hiking with my dog Tywin is my favorite past time away from my computer.
 - My goal is to create/collaborate on innovative software solutions that brings us closer into balance with nature and more holistic and sustainable living.
-- Pronouns: he/him/his
+- Pronouns: he/him/his.
 
 ## Toolkit:
 <div align='center'>
