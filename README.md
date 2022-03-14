@@ -6,7 +6,7 @@
 My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of the United States.
 
 
-- I am a recent graduate of Springboard's <a href='https://www.springboard.com/courses/software-engineering-career-track/'>Software Engineering Program</a>.
+- I am a recent graduate of Springboard's <a href='https://www.springboard.com/invite/7258Q'>Software Engineering Program</a>.
 - I'm currently building a Progressive Web App using React - TypeScript - Tailwind - Node - Express - MongeDB.
 - In my free time I'm working on an NFT project with a few of my dev and graphic design inclined friends.  
 - Hiking with my dog Tywin is my favorite past time away from my computer.
