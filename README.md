@@ -16,7 +16,7 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
 ## Toolkit:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,tailwind,py,materialui,bootstrap,redux,html,css,javascript,jest,express,flask,bash,md,mongodb,postgres,docker,gcp,ps,figma,cloudflare,firebase,heroku,gatsby,git,github,vscode,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,redux,tailwind,bootstrap,py,html,materialui,css,javascript,jest,express,flask,bash,md,mongodb,postgres,docker,gcp,ps,figma,cloudflare,firebase,heroku,gatsby,git,github,vscode,stackoverflow" />
   </a>
 </p>
 
