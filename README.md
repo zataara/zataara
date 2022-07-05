@@ -20,7 +20,6 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
   </a>
 </p>
 
-
 <!-- <div align='center'>
   -->
 <!-- React -->
