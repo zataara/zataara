@@ -114,7 +114,7 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
 ```text
 From: 10 July 2022 - To: 17 July 2022
 
-TypeScript   7 hrs 5 mins    █████████████████████▒░░░   84.78 %
+TypeScript   27 hrs 5 mins    █████████████████████▒░░░   84.78 %
 SQL          1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
 HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
