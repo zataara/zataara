@@ -125,7 +125,7 @@ Git Config   7 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ## My cumulative coding adventure:
-<a href='https://wakatime.com/@zataara'><img width="1000" height="480" src="https://wakatime.com/share/@zataara/1951159e-2f55-4a3a-b85a-090f3139d650.svg"></img></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@zataara/3c96471a-adab-4e16-99ab-941fb88544b6.png" /></a>
   
 ## Lets connect:
  
