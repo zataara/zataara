@@ -122,7 +122,7 @@ Bash         1 min           ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-## My cumulative coding adventure:
+## How I've spent my year:
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@zataara/3c96471a-adab-4e16-99ab-941fb88544b6.png" /></a>
   
 ## Lets connect:
