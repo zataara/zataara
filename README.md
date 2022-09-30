@@ -109,7 +109,11 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 22 September 2022 - To: 29 September 2022
+
+TypeScript   1 hr 57 mins    ████████████████████████▓   98.64 %
+SQL          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
