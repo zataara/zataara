@@ -129,7 +129,6 @@ Python       15 mins         ▒░░░░░░░░░░░░░░░░
 <a href='https://www.linkedin.com/in/bryantmac'>![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href='https://mail.google.com/mail/?view=cm&fs=1&to=bryantmac@gmail.com&su=Hello!&body=Greetings'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href='https://www.fb.com/bryantm'> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a> <a href='https://www.m.me/bryantm'>![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)</a> <a href='https://www.instagram.com/zataara.xyz'>![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href='https://telegram.me/zataara'>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> <a href='https://twitter.com/zataara'>![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
  
 
-  
 <!-- <img src="https://github.com/zataara/zataara/blob/master/images/codeStats.svg" alt=""/> -->
 <!-- All Apps -->
 <!-- [![wakatime](https://wakatime.com/badge/user/99e71179-209a-409a-b8bc-6612891d9ce9.svg)](https://wakatime.com/@99e71179-209a-409a-b8bc-6612891d9ce9) -->
