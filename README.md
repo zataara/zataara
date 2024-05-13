@@ -5,7 +5,7 @@
 
 My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of the United States.
 
-- I'm currently building a Progressive Web App using React - TypeScript - Tailwind - Node - Molecular.js - Postgresql.
+- I'm currently building and managing an ecosystem of apps using React/Native - TypeScript - Tailwind - Node - Molecular.js - Postgresql.
 - Hiking with my dogs Tywin and Teddi is my favorite past time away from my computer.
 - My goal is to create/collaborate on innovative software solutions that brings us closer into balance with nature and more holistic and sustainable living.
 - I am presently working my way through a Solana Blockchain bootcamp in my free time.
