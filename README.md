@@ -1,7 +1,8 @@
 # Greetings! 🤟🏼
 
 
-[![wakatime](https://wakatime.com/badge/user/99e71179-209a-409a-b8bc-6612891d9ce9.svg)](https://wakatime.com/@99e71179-209a-409a-b8bc-6612891d9ce9) <a href='https://www.codewars.com/users/zataara'><img src="https://www.codewars.com/users/zataara/badges/micro"></a>  <a href='https://leetcode.com/zataara/'>![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)</a>  <a href='https://stackoverflow.com/users/14847517/bryant-macmahon'>![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)</a> <a href='https://zataara.hashnode.dev/'> ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)</a>
+<!-- [![wakatime](https://wakatime.com/badge/user/99e71179-209a-409a-b8bc-6612891d9ce9.svg)](https://wakatime.com/@99e71179-209a-409a-b8bc-6612891d9ce9)
+<a href='https://www.codewars.com/users/zataara'><img src="https://www.codewars.com/users/zataara/badges/micro"></a>  <a href='https://leetcode.com/zataara/'>![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)</a>  <a href='https://stackoverflow.com/users/14847517/bryant-macmahon'>![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)</a> <a href='https://zataara.hashnode.dev/'> ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)</a> -->
 
 My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of the United States.
 
@@ -106,6 +107,7 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
   -->
 </div>
 
+<!--
 ## How I've spent my week:
 <!--START_SECTION:waka-->
 
@@ -118,7 +120,7 @@ SQL          51 mins         █▒░░░░░░░░░░░░░░░
 Pug          33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 Markdown     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
-
+-->
 <!--END_SECTION:waka-->
 
 ## How I've spent my year:
