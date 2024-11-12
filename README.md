@@ -112,13 +112,13 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2024 - To: 10 November 2024
+From: 04 November 2024 - To: 11 November 2024
 
-TypeScript   12 hrs 40 mins  ████████████████████████░   95.65 %
-HTML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TypeScript   14 hrs 33 mins  ████████████████████████░   96.10 %
+HTML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
