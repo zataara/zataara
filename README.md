@@ -112,7 +112,7 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2024 - To: 08 December 2024
+From: 02 December 2024 - To: 09 December 2024
 
 TypeScript   16 hrs 7 mins   █████████████████████░░░░   83.99 %
 HTML         2 hrs 49 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
