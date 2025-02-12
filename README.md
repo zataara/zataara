@@ -108,7 +108,7 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
 <!--
 ## How I've spent my week:
 <!--START_SECTION:waka-->
-
+<!--
 ```txt
 From: 04 February 2025 - To: 11 February 2025
 
@@ -118,6 +118,7 @@ Other      11 mins         █░░░░░░░░░░░░░░░░�
 XML        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
+-->
 
 <!--END_SECTION:waka-->
 
