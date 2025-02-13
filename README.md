@@ -108,17 +108,16 @@ My name is Bryant, I'm a Software Engineer living in the Pacific Northwest of th
 <!--
 ## How I've spent my week:
 <!--START_SECTION:waka-->
-<!--
-```txt
-From: 04 February 2025 - To: 11 February 2025
 
-Swift      3 hrs 45 mins   █████████████████████░░░░   83.90 %
-Cocoa      19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-Other      11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-XML        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+```txt
+From: 05 February 2025 - To: 12 February 2025
+
+Swift        3 hrs 22 mins   █████████████████▓░░░░░░░   70.70 %
+JSON         29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
+TypeScript   19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+CSS          17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+XML          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 ```
--->
 
 <!--END_SECTION:waka-->
 
